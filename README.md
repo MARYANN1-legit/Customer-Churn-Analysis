@@ -5,9 +5,9 @@ Customer churn refers to the phenomenon where customers discontinue their relati
 Dataset from kaggle (https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
 
 ### Tool used
--Excel : Data Cleaning
--SQL Server : Data Analysis
--Power BI : Data Visualization
+- Excel : Data Cleaning
+- SQL Server : Data Analysis
+- Power BI : Data Visualization
 
 ### Data Cleaning
 Data cleaning and pre-processing were carried out at the initial stage to ensure the quality of data
