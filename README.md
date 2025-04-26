@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-Customer churn refers to the phenomenon where customers discontinue their relationship or subscription with a company or service provider. It represents the rate at which customers stop using a company's products or services within a specific period.  over here, we'll be analyzing the factors for the  churn and we'll be proffering solutions 
+Customer churn refers to the phenomenon where customers discontinue their relationship or subscription with a company or service provider. It represents the rate at which customers stop using a company's products or services within a specific period.  over here, we'll be analyzing the factors for the  churn and we'll be proffering solutions.
 
 ### DATA SOURCE
 Dataset from kaggle (https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
@@ -136,7 +136,7 @@ Usage Frequency
 
 
 ### Limitations
-1. Lack of contextual data: The analysis may not account for external factors that could influence churn, such as changes in market trends, competitor activity, or economic conditions.
-2. Limited insight into support experiences: While there's a support code column, it's unclear what specific aspects of support are being measured. More detailed information about support interactions (e.g., response time, resolution rate) could provide a more nuanced understanding of churn drivers.
+1. Lack of contextual data: The analysis did not account for external factors that could influence churn, such as changes in market trends, competitor activity, or economic conditions.
+2. Limited insight into support experiences: While there's a support code column, it's unclear what specific aspects of support are being measured. More detailed information about support interactions (e.g., response time, resolution rate) could provide a more detailed understanding of churn drivers.
 
 
