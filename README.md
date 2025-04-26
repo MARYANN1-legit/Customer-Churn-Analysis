@@ -107,6 +107,12 @@ group by support_calls
 order by support_calls;
 ~~~
 
+### ![img3](https://github.com/user-attachments/assets/d2d1f29a-f046-4605-88a1-88acbfad2b45)
+
+### ![img3b](https://github.com/user-attachments/assets/9015c4a4-1c9c-4785-876a-42d4a673b63e)
+
+
+
 ### Results/Findings
 Support calls 
 - Customers with a support calls of 3-5 have a high churn rate, indicating that poor support experiences contribute to customer attrition.
