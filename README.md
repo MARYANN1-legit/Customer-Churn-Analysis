@@ -133,4 +133,8 @@ Usage Frequency
 5. Encourage usage: Develop strategies to increase usage frequency among low-activity customers.
 
 
+### Limitations
+1. Lack of contextual data: The analysis may not account for external factors that could influence churn, such as changes in market trends, competitor activity, or economic conditions.
+2. Limited insight into support experiences: While there's a support code column, it's unclear what specific aspects of support are being measured. More detailed information about support interactions (e.g., response time, resolution rate) could provide a more nuanced understanding of churn drivers.
+
 
