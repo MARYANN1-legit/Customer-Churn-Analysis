@@ -108,4 +108,29 @@ order by support_calls;
 ~~~
 
 ### Results/Findings
+Support calls 
+- Customers with a support calls of 3-5 have a high churn rate, indicating that poor support experiences contribute to customer attrition.
+
+Demographics
+- Female customers are more likely to churn than male customers.
+- The average age range of customers who churn the most is 51-65 years old.
+- For males, the highest churn rate is among those aged 50-63, while for females, it's 50-65.
+
+Payment Delays
+- Customers with 16 or more payment delays have a high churn rate, suggesting that repeated payment issues can lead to customer loss.
+
+Subscription Type
+- The Basic subscription type has the highest churn rate, followed by Standard and Premium.
+
+Usage Frequency
+- Customers with low usage frequency (0-5) are more likely to churn, while those with moderate usage (6-30) are less likely to churn.
+
+### Recommendation 
+1. Improve support experiences: Focus on enhancing support quality, particularly for customers with scores 3-5.
+2. Targeted retention strategies: Develop retention programs for female customers and those aged 50-65.
+3. Streamline payment processes: Implement measures to reduce payment delays and assist customers with repeated payment issues.
+4. Enhance basic subscription offerings: Review and improve the basic subscription type to reduce churn.
+5. Encourage usage: Develop strategies to increase usage frequency among low-activity customers.
+
+
 
